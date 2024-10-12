@@ -2,7 +2,7 @@
 
 ## Requirements
 
--   [Poetry](https://python-poetry.org/docs/)
+-   [Poetry](https://python-poetry.org/docs/) (https://python-poetry.org/docs/#installing-with-the-official-installer)
 
 ## Setting up Virtual Environment
 
