@@ -1,1 +1,5 @@
 https://docs.google.com/document/d/1I1RdasecJaAAmTL0AFLa911boE5_hmVwyH4DN7-Io08/edit
+
+https://mahmoudyusof.github.io/blog/scikit-learn-pipelines
+
+https://www.analyticsvidhya.com/blog/2021/05/understanding-column-transformer-and-machine-learning-pipelines/
