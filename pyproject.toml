@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "iau-project"
-version = "0.1.0"
+version = "1.0.0"
 description = ""
 authors = ["Mário Babiar <mariobabiar11@gmail.com>"]
 readme = "README.md"
@@ -16,6 +16,7 @@ scipy = "^1.14.1"
 statsmodels = "^0.14.4"
 ipykernel = "^6.29.5"
 scikit-learn = "^1.5.2"
+graphviz = "^0.20.3"
 
 
 [build-system]
