@@ -1,4 +1,4 @@
 .venv
 .idea
 .vscode
-# /Image_Classification/data
+/Image_Classification/data
