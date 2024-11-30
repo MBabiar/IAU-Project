@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "image-classification"
+version = "0.1.0"
+description = ""
+authors = ["Mário Babiar <mariobabiar11@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+ipykernel = "^6.29.5"
+kagglehub = "^0.3.4"
+matplotlib = "^3.9.3"
+python = "^3.12"
+seaborn = "^0.13.2"
+pandas = "^2.2.3"
+tensorflow = "^2.18.0"
+jupyter = "^1.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
