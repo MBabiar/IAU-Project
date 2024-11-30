@@ -20,6 +20,7 @@ scipy = "^1.14.1"
 seaborn = "^0.13.2"
 statsmodels = "^0.14.4"
 tqdm = "^4.67.0"
+kagglehub = "^0.3.4"
 
 [build-system]
 requires = ["poetry-core"]
